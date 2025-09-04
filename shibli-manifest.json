@@ -3,7 +3,7 @@
     "version": "v0.1.0",
     "files": [
         {
-            "path": "merged-binary.bin",
+            "path": "https://github.com/malshibli/-shibli-xia-chatbot/releases/download/v0.1.0/merged-binary.bin",
             "size": 2626288,
             "sha256": "d255e502648c73bbd6c1b83cf211e52105e725237db4859c007d6471570bf338"
         }
