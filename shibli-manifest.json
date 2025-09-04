@@ -1,12 +1,10 @@
 {
-    "name": "Shibli Xiao ESP32-S3 Chatbot Firmware",
-    "version": "v0.1.0",
-    "files": [
-        {
-            "path": "https://github.com/malshibli/-shibli-xia-chatbot/releases/download/v0.1.0/merged-binary.bin",
-            "size": 2626288,
-            "sha256": "d255e502648c73bbd6c1b83cf211e52105e725237db4859c007d6471570bf338"
-        }
-    ],
-    "notes": "Initial release of the Shibli Xiao ESP32-S3 chatbot firmware."
+  "version": "0.1.0",
+  "files": [
+    {
+      "url": "https://github.com/malshibli/-shibli-xia-chatbot/releases/download/v0.1.0/merged-binary.bin",
+      "sha256": "8990d5774ff706ed75be6076f6097665ddf616d93923a31fb45e9b5062009e02",
+      "size": 2621440
+    }
+  ]
 }
